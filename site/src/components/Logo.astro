@@ -1,0 +1,18 @@
+---
+interface Props {
+  class?: string;
+}
+const { class: className = 'h-9 w-9' } = Astro.props;
+---
+
+<!-- Magnifier-with-map-pin mark, echoing the theme's SEO magnifier favicon -->
+<svg class={className} viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <circle cx="21" cy="21" r="15" fill="#7b6c9a" />
+  <circle cx="21" cy="21" r="10" fill="#ffffff" />
+  <path
+    d="M21 14.5c-3 0-5.5 2.4-5.5 5.4 0 3.9 5.5 8.6 5.5 8.6s5.5-4.7 5.5-8.6c0-3-2.5-5.4-5.5-5.4z"
+    fill="#f2a52e"
+  />
+  <circle cx="21" cy="19.8" r="2" fill="#ffffff" />
+  <rect x="31.2" y="28.4" width="12" height="6.5" rx="3.25" transform="rotate(45 31.2 28.4)" fill="#695e85" />
+</svg>

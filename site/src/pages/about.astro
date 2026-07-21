@@ -1,0 +1,85 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import CtaBand from '../components/CtaBand.astro';
+import { SITE } from '../data/site';
+
+import missionIllus from '../assets/images/illus-mission-wide.jpg';
+import savingsIllus from '../assets/images/illus-savings.jpg';
+import supportIllus from '../assets/images/illus-support.jpg';
+import consultingIllus from '../assets/images/illus-consulting.jpg';
+
+const values = [
+  {
+    image: savingsIllus,
+    title: 'Results you can bank',
+    text: 'We measure success in enquiries and revenue, not impressions. If it doesn’t make the phone ring, it doesn’t make the report.',
+  },
+  {
+    image: supportIllus,
+    title: 'Straight talk',
+    text: 'No jargon, no smoke and mirrors. You’ll always know what we did, why we did it, and what it returned.',
+  },
+  {
+    image: consultingIllus,
+    title: 'Partners, not vendors',
+    text: 'No lock-in contracts. We keep clients by delivering, month after month — some have been with us for years.',
+  },
+];
+---
+
+<Base
+  title={`About — ${SITE.name}`}
+  description="Fat Yak Media is a local SEO and digital marketing agency helping local businesses win more customers from search."
+>
+  <section class="bg-navy-950 py-16">
+    <div class="mx-auto grid max-w-6xl items-center gap-10 px-4 sm:px-6 lg:grid-cols-2">
+      <div>
+        <p class="text-sm font-bold uppercase tracking-widest text-teal-400">About us</p>
+        <h1 class="mt-2 text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
+          The local growth agency that talks like a human
+        </h1>
+        <p class="mt-5 text-lg leading-8 text-navy-200">
+          Fat Yak Media exists for one reason: to help local businesses get found by the customers already
+          searching for them. We’re a tight team of SEO specialists, designers and copywriters who’d rather
+          show you results than a 40-page deck.
+        </p>
+      </div>
+      <div class="overflow-hidden rounded-3xl shadow-2xl ring-1 ring-white/10">
+        <Image src={missionIllus} alt="Illustration of a trophy representing our mission to win for clients" width="700" class="h-auto w-full" loading="eager" />
+      </div>
+    </div>
+  </section>
+
+  <section class="py-20">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <div class="mx-auto max-w-2xl text-center">
+        <h2 class="text-3xl font-extrabold tracking-tight text-navy-900 sm:text-4xl">What we stand for</h2>
+      </div>
+      <div class="mt-12 grid gap-6 md:grid-cols-3">
+        {
+          values.map((v) => (
+            <div class="rounded-2xl border border-navy-100 bg-white p-7 text-center shadow-sm">
+              <Image src={v.image} alt="" width="400" height="400" class="mx-auto h-36 w-36 rounded-2xl object-cover" />
+              <h3 class="mt-5 text-lg font-bold text-navy-900">{v.title}</h3>
+              <p class="mt-2 text-sm leading-6 text-navy-700">{v.text}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-navy-50/50 py-20">
+    <div class="mx-auto max-w-3xl px-4 text-center sm:px-6">
+      <h2 class="text-3xl font-extrabold tracking-tight text-navy-900">Why “Fat Yak”?</h2>
+      <p class="mt-4 text-lg leading-8 text-navy-700">
+        Because marketing doesn’t have to be stiff. We’re serious about results and relaxed about everything
+        else — the kind of agency you can call without bracing for buzzwords. Grab a coffee (or a cold one),
+        tell us about your business, and we’ll tell you honestly whether we can help.
+      </p>
+    </div>
+  </section>
+
+  <CtaBand />
+</Base>

@@ -1,0 +1,62 @@
+---
+import { NAV_LINKS, SITE } from '../data/site';
+import { SERVICES } from '../data/services';
+import Logo from './Logo.astro';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="bg-navy-950 text-navy-200">
+  <div class="mx-auto grid max-w-6xl gap-10 px-4 py-14 sm:px-6 md:grid-cols-4">
+    <div class="md:col-span-2">
+      <a href="/" class="flex items-center gap-2">
+        <Logo class="h-9 w-9" />
+        <span class="text-lg font-extrabold tracking-tight text-white">
+          Fat Yak <span class="text-brand-300">Media</span>
+        </span>
+      </a>
+      <p class="mt-4 max-w-sm text-sm leading-6">
+        {SITE.description}
+      </p>
+      <a href={`mailto:${SITE.email}`} class="mt-4 inline-block text-sm font-semibold text-amber-400 hover:text-amber-500">
+        {SITE.email}
+      </a>
+    </div>
+
+    <nav aria-label="Footer services">
+      <h2 class="text-sm font-bold uppercase tracking-wider text-white">Services</h2>
+      <ul class="mt-4 space-y-2 text-sm">
+        {
+          SERVICES.map((s) => (
+            <li>
+              <a href={`/services/${s.slug}/`} class="transition hover:text-white">
+                {s.shortTitle}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
+    <nav aria-label="Footer pages">
+      <h2 class="text-sm font-bold uppercase tracking-wider text-white">Company</h2>
+      <ul class="mt-4 space-y-2 text-sm">
+        {
+          NAV_LINKS.map((link) => (
+            <li>
+              <a href={link.href} class="transition hover:text-white">
+                {link.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+  </div>
+
+  <div class="border-t border-navy-800">
+    <p class="mx-auto max-w-6xl px-4 py-6 text-xs text-navy-300 sm:px-6">
+      © {year} {SITE.name}. All rights reserved.
+    </p>
+  </div>
+</footer>

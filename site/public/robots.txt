@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fat-yak-media.pages.dev/sitemap-index.xml

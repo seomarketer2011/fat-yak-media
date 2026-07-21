@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../data/site';
+---
+
+<Base title={`Page not found — ${SITE.name}`}>
+  <section class="py-24 text-center">
+    <p class="text-sm font-bold uppercase tracking-widest text-teal-600">404</p>
+    <h1 class="mt-2 text-4xl font-extrabold tracking-tight text-navy-900">Page not found</h1>
+    <p class="mx-auto mt-4 max-w-md text-navy-700">
+      Even the best SEO can’t rank a page that doesn’t exist. Let’s get you back on track.
+    </p>
+    <a
+      href="/"
+      class="mt-8 inline-block rounded-full bg-amber-500 px-7 py-3.5 text-base font-bold text-navy-950 transition hover:bg-amber-400"
+    >
+      Back to home
+    </a>
+  </section>
+</Base>

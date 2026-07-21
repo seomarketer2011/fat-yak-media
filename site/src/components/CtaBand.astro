@@ -1,0 +1,23 @@
+---
+interface Props {
+  title?: string;
+  subtitle?: string;
+}
+const {
+  title = 'Ready to get found by more local customers?',
+  subtitle = 'Get a free, no-obligation SEO audit — we’ll show you exactly where you rank, what’s holding you back, and what it would take to fix it.',
+} = Astro.props;
+---
+
+<section class="bg-gradient-to-br from-brand-600 via-brand-500 to-navy-900">
+  <div class="mx-auto max-w-4xl px-4 py-16 text-center sm:px-6">
+    <h2 class="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">{title}</h2>
+    <p class="mx-auto mt-4 max-w-2xl text-lg text-brand-100">{subtitle}</p>
+    <a
+      href="/contact/"
+      class="mt-8 inline-block rounded-full bg-amber-500 px-8 py-4 text-base font-bold text-navy-950 shadow-lg transition hover:bg-amber-400"
+    >
+      Claim your free SEO audit
+    </a>
+  </div>
+</section>

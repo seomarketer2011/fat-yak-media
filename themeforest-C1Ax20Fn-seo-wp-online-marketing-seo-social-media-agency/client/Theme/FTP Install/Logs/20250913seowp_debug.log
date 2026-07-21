@@ -1,0 +1,6 @@
+
+2025-09-13 12:31:11 :: {"purchase_code":"0dae3c1f-1c9a-4407-a3fd-5abaff9505c1","domain":"http:\/\/localhost\/seowp_12_09","product":"SEOWP"}
+2025-09-13 12:31:12 :: {"headers":{},"body":"{\"success\":true,\"message\":\"License saved and validated.\"}","response":{"code":200,"message":"OK"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}
+2025-09-13 12:31:12 :: 200
+2025-09-13 12:31:12 :: {"success":true,"message":"License saved and validated."}
+2025-09-13 12:31:12 :: send license to server

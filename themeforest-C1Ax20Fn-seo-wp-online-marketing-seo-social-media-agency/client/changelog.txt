@@ -1,0 +1,687 @@
+2026 July 13- Version 3.12.4 ❄️
+* Compatibility testing with WordPress 7.0
+* UPDATED: Easy Social Share Buttons for WordPress
+* UPDATED: ValvePress Rankie
+
+2026 July 06- Version 3.12.3 🦆
+* UPDATED: Easy Social Share Buttons for WordPress
+* UPDATED: Master Slider
+
+2026 May 04– Version 3.12.2 ❄️
+* UPDATED: LC Premium Extensions
+
+2026 April 06- Version 3.12.1 🦆
+* Compatibility testing with WordPress 6.9.4
+* UPDATED: WP Cost Estimation & Payment Forms Builder
+* UPDATED: LC Premium Extensions
+
+2026 March 19– Version 3.12.0 ❄️
+* Fixed: Minor bug fixes and UI improvements
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2026 February 14- Version 3.11.4 🦆
+* Compatibility testing with WordPress 6.9.1
+
+2026 January 27- Version 3.11.3 ❄️
+* Fixed: Enhanced logging capabilities.
+* UPDATED: LC Premium Extensions Changes for Compatibility with Live Composer
+
+2026 January 19- Version 3.11.2 ❄️
+* Fixed: Minor issue related to the Breadcrumb option and Elementor option
+
+2025 December 26- Version 3.11.1 🦆
+* UPDATED: Easy Social Share Buttons for WordPress
+* UPDATED: WP Cost Estimation & Payment Forms Builder
+* UPDATED: ValvePress Rankie
+
+2025 December 23- Version 3.11.0 ❄️
+* Enhanced logging capabilities.
+
+2025 December 16- Version 3.10.1 🦆
+* Compatibility testing with WordPress 6.9
+* Fixed: Minor Bugs Fixed
+* UPDATED: LC Premium Extensions
+
+2025 November 27 - Version 3.10.0 ❄️
+* Feature: Live Composer New Version
+* UPDATED: LC Premium Extensions Changes for Compatibility with Live Composer
+
+2025 October 31- Version 3.9.3 ❄️
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2025 October 24- Version 3.9.2 🦆
+* Compatibility testing with WordPress 6.8.3
+
+2025 September 29- Version 3.9.1 ❄️
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2025 September 25 - Version 3.9.0 ❄️
+* Fixed: Minor Bugs Fixed
+
+2025 July 23- Version 3.8.0 🦆
+* UPDATED: Easy Social Share Buttons for WordPress
+* Compatibility testing with WordPress 6.8.2
+
+2025 July 10- Version 3.7.9 ❄️
+* UPDATED: ValvePress Rankie
+* UPDATED: WP Cost Estimation & Payment Forms Builder
+
+2025 June 17- Version 3.7.8 ❄️
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2025 June 05- Version 3.7.7 ❄️
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2025 May 27- Version 3.7.6 ❄️
+* UPDATED: ValvePress Rankie
+
+2025 April 28- Version 3.7.5 ❄️
+* UPDATED: ValvePress Rankie
+* UPDATED: Easy Social Share Buttons for WordPress
+* UPDATED: WP Cost Estimation & Payment Forms Builder
+* Compatibility testing with WordPress 6.8
+
+2025 March 28- Version 3.7.4 ❄️
+* UPDATED: ValvePress Rankie
+
+2025 March 04- Version 3.7.3 ❄️
+* UPDATED: ValvePress Rankie
+* Compatibility testing with Wordpress 6.7.2
+
+2025 February 14- Version 3.7.2 ❄️
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2025 January 16 - Version 3.7.1🦆
+* Fixed: Minor Issue
+
+2025 January 15 - Version 3.7.0❄️
+* Added Back to top with customization
+
+2024 December 23 - Version 3.6.2🦆
+* UPDATED: WP Cost Estimation & Payment Forms Builder
+* UPDATED: Easy Social Share Buttons for WordPress
+* Fixed: Minor Bugs fixed
+
+2024 November 25 - Version 3.6.1❄️
+* Compatibility testing with Wordpress 6.7
+
+2024 November 09 - Version 3.6.0❄️
+* UPDATED: Social icons
+
+2024 October 14 - Version 3.5.0❄️
+*  UI/UX improvements
+
+2024 September 21 - Version 3.4.1❄️
+* UPDATED: WP Cost Estimation & Payment Forms Builder
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2024 September 12 - Version 3.4.0 ❄️
+* UPDATED: Elementor Templates Design Improvements
+
+2024 September 03 - Version 3.3.9 ❄️
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2024 July 31- Version 3.3.8❄️
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2024 July 19 - Version 3.3.7❄️
+* Compatibility testing with Wordpress 6.6
+
+2024 June 26 - Version 3.3.6❄️
+* Fixed: Minor Bugs fixed
+
+2024 June 12 - Version 3.3.5❄️
+* Fixed: Minor UI Bugs fixed
+
+2024 May 23 - Version 3.3.4🦆
+* UPDATED: WP Cost Estimation & Payment Forms Builder
+
+2024 May 22 - Version 3.3.3❄️
+* UPDATED: WP Cost Estimation & Payment Forms Builder
+* UPDATED: Easy Social Share Buttons for WordPress
+
+2024 May 09 - Version 3.3.2❄️
+* UPDATED: WP Cost Estimation & Payment Forms Builder
+* UPDATED: Easy Social Share Buttons for WordPress
+* Minor Bug fixes
+
+2024 April 03 - Version 3.3.1❄️
+* Compatibility testing with Wordpress 6.5 
+
+2024 March 08 - Version 3.3.0❄️
+* Feature: Back to top
+* Design Improvement
+
+2024 March 01 - Version 3.2.1❄️
+* Feature: Twitter Icon replaced with X Icon
+* Feature: Minor configuration change. 
+
+2024 February 06 - Version 3.2.0🦆
+* Feature: Functionality for Converting Live Composer Page to Elementor Pages.
+
+2024 January 17 - Version 3.1.0🦆
+* Feature: Breadcrumb implementation
+
+2024 January 08 - Version 3.0.2🦆
+Updated: LiveComposer
+
+2024 January 04 - Version 3.0.1🦆
+Updated: Livecomposer Plugin to resolve conflict with Yoast and Rank Math Plugins
+
+2024 January 03 - Version 3.0.0 🦆
+* UPDATED: Live Composer Page Builder to support Elementor
+* Feature: Elementor is now supported for SEOWP Templates
+
+2023 December 18 - Version 2.4.2 🦆
+* UPDATED: Live Composer Page Builder 
+
+2023 December 12 - Version 2.4.1 🦆
+* UPDATED: WP Cost Estimation & Payment Forms Builder 
+* UPDATED: ValvePress Rankie
+* Enhanced logging capabilities.
+
+2023 August 28 - Version 2.4.0 ❄️
+* UPDATED: Easy Social Share plugin update for WordPress.
+* Enhanced logging capabilities.
+
+2023 August 04 - Version 2.3.2 ❄️
+* UPDATED: Easy Social Share Buttons for WordPress
+* REMOVED: Mega Main Menu Plugin
+
+2023 June 20 - Version 2.3.1 ☀️
+* UPDATED: Easy Social Share Buttons for WordPress
+* UPDATED: Mega Main Menu
+* UPDATED: WP Cost Estimation & Payment Forms Builder 
+* UPDATED: ValvePress Rankie
+
+2023 February 14 - Version 2.3.0 ❄️
+* NEW FEATURE: SEOWP Theme options: user now can enter custom Javascript snippets in head, body or footer section of all the pages. This can be used to integrate all the analytics code blocks into your website.
+
+2023 January 28 - Version 2.2.7 ❄️
+* FIXED: WP COST Estimation & Payment Forms Builder : wp estimation form page was not loading with all the CSS and JS when it was accessed via clicking a button. Page was loading fine when the same url was put in the address bar directly.
+
+2023 January 20 - Version 2.2.6 ☀️
+* UPDATED: Easy Social Share Buttons for WordPress
+* UPDATED: Master Slider Pro
+* UPDATED: WP Cost Estimation & Payment Forms Builder 
+
+2023 January 11 - Version 2.2.5 ☀️
+* FIXED: WP Cost Estimation & Payment Forms Builder : Infinite Database writes issue
+
+2023 January 05 - Version 2.2.4 ☀️
+* UPDATED: Easy Social Share Buttons for WordPress
+* UPDATED: Master Slider Pro
+* UPDATED: WP Cost Estimation & Payment Forms Builder 
+* UPDATED: Ninja Forms - Paypal Standard
+* UPDATED: ValvePress Rankie
+* FIXED: Mega Menu Importing Issue
+
+2022 September 10 - Version 2.2.3 ☀️
+* UPDATED: Live Composer Premium Extensions Plugin
+* UPDATED: WP Cost Estimation & Payment Forms Builder 
+* UPDATED: Easy Social Share Button 3
+* UPDATED: Live Composer Page Builder
+* UPDATED: Ninja Forms - MailChimp Opt-ins
+* UPDATED: Documentation URL & Author Information
+* FIXED: PHP Version Update Issue
+
+2021 May 3 - Version 2.2.2 ☀️
+* UPDATED: Adding comments to pages by default
+* FIXED: Copying certain styles to non-Live Composer pages
+* FIXED: Improved error handling on admin screens
+* UPDATED: Adding `wp_body_tag`
+
+2021 April 19 - Version 2.2.1 🌼
+* UPDATED: Live Composer Premium Extensions Plugin
+* UPDATED: WP Cost and Estimation Premium Plugin
+* UPDATED: Rankie Premium Plugin
+* UPDATED: Fresh Favicon Premium Plugin
+* BETTER: Updating Live Composer license message for SEOWP installs
+
+2020 August 18 - Version 2.2 🦁
+* UPDATED: Live Composer Premium Extensions Plugin
+* FIX: jQuery compatibility updates
+
+2020 January 16 - Version 2.1 ⛄️
+* UPDATED: Live Composer Premium Extensions Plugin
+* UPDATED: Rankie Premium Plugin
+* UPDATED: MasterSlider Premium Plugin
+
+2019 December 11 - Version 2.0.3 ❄️
+* FIX: Broken testimonial background on mobile.
+* FIX: Broken image styling.
+* FIX: Adjusted demo-content layout.
+
+2019 September 23 - Version 2.0.2 🐡
+* UPDATED: Live Composer - Extensions (Premium Plugin).
+* UPDATED: WP Cost Estimation & Payment Forms Builder (Premium Plugin).
+* FIX: Clickable area for menu items in the main menu.
+* FIX: Unwanted uppercase inner menu items styling.
+* FIX: MailChimp Opt-Ins plugin errors.
+* BETTER: Menu import process on the first theme install.
+
+2019 September 3 - Version 2.0.1 🦉
+* FIX: Broken Social Media Services link in the menu.
+* FIX: Broken header design properties for old users.
+* FIX: Broken header design import for flat design version.
+
+2019 August 15 - Version 2.0 🦁
+* NEW: All new design version: https://modern.seowptheme.com/ We designed a new fresh design for Digital Agencies following the latest design trends.
+* NEW: Premium Cost Estimation & Payment Forms Builder added. Create advanced quote forms for your services or use the ones we created for you: http://seowp-dev/instant-quote-seo-services/
+* NEW: Premium illustrations and icons included for free in new design https://modern.seowptheme.com/
+* BETTER: Made theme configuration notice dismissible.
+* FIX: Menu icon selection popup.
+* UPDATED: Live Composer - Extensions (Premium Plugin).
+
+2019 July 3 - Version 1.9.12 🦆
+* BETTER: Code improvements to meet new Envato WordPress Theme Requirements.
+* FIX: Wide and Full width blocks going out of canvas in Gutenberg.
+* FIX: Updated translation strings in seowp.po file.
+* BETTER: Added configuration .xml file for Loco Translate plugin.
+
+2019 June 22 - Version 1.9.11 🐞
+* FIX: Fixed redirection error on activation on older versions of PHP.
+* FIX: Fixed widgets styling when the theme isn't configured.
+
+2019 June 21 - Version 1.9.10 🐞
+* FIX: Fixed a bug in MegaMainMenu plugin integration: "An error of type E_PARSE was caused..."
+
+2019 June 14 - Version 1.9.9 🦎
+* BETTER: Adjusted theme according to new Envato WordPress Theme Requirements.
+
+As part of the update, we removed theme shortcodes. Envato doesn't allow ANY shortcodes in the themes anymore.
+Please, rename the next shortcodes in your LC Templates:
+- [lbmn_archive_heading] now [dslc_archive_heading] as part of Live Composer plugin
+- [lbmn_postpagination] now [dslc_postpagination] as part of Live Composer plugin
+- [lbmn_authorbio] now [dslc_authorbio] as part of Live Composer plugin
+- [lbmn_commentscount] now [dslc_commentscount] as part of Live Composer plugin
+
+New users aren't affected by this change.
+
+2019 May 22 - Version 1.9.8 🐓
+
+We keep our theme updated, adding new features and designs for our new and existing users. With this update, we prepare the ground for the next major update 2.0 improving Gutenberg compatibility and adopting new Envato marketplace requirements.
+
+* BETTER: Adjusted theme according to Envato > WordPress Gutenberg Requirements: https://help.author.envato.com/hc/en-us/articles/360020255992
+* BETTER: Adjusted theme according to Envato > WordPress Theme General Requirements: https://help.author.envato.com/hc/en-us/articles/360000481263-WordPress-Theme-General-Requirements
+* BETTER: #177 – New demo content importer. The theme installation process now even more simple and stable.
+* Minor bugs and code improvements.
+
+2019 May 14 - Version 1.9.7 🐇
+
+* UPDATED: Easy Social Share Buttons (Premium Plugin)
+* UPDATED: Live Composer - Extensions (Premium Plugin)
+* UPDATED: MasterSlider (Premium Plugin)
+* UPDATED: Ninja Forms MailChimp Opt-ins (Premium Plugin)
+* UPDATED: WP Rankie (Premium Plugin)
+* UPDATED: Mega Main Menu (Premium Plugin)
+* NEW: Live Composer – Open Street Maps (Premium Plugin) - No more Google API mess.
+* Minor bugs and code improvements.
+
+2018 December 11 - Version 1.9.6
+
+* UPDATED: Live Composer Page Builder plugin
+* UPDATED: Live Composer - Extensions
+* UPDATED: MasterSlider plugin
+* UPDATED: Easy Social Share Buttons plugin
+* UPDATED: Ninja Forms PayPal Payments plugin
+* FIX: 16 bugs
+
+Next theme update July 2018.
+
+2018 June 11 - Version 1.9.5
+
+* FIX: Broken product tabs.
+* FIX: Broken testimonial avatar in the demo content.
+* FIX: Improved stability when installing on older servers with outdated php version.
+
+Next theme update June 2018.
+
+2018 May 1 - Version 1.9.4
+
+* UPDATED: Live Composer Page Builder plugin
+* UPDATED: MasterSlider plugin
+* UPDATED: Easy Social Share Buttons plugin
+* UPDATED: Ninja Forms PayPal Payments plugin
+* NEW: Live Composer - Extensions
+* FIX: 18+ bugs and improvements
+
+Next theme update May 2017.
+
+2017 September 25 - Version 1.9.3
+
+* UPDATED: Live Composer - Templates for CPT plugin (updates automatically)
+* FIX: SEO Child Theme
+* FIX: Footer is broken in default install
+* FIX: 4 other bugs
+
+Next theme update October 2017.
+
+2017 September 19 - Version 1.9.2
+
+* UPDATED: Live Composer Page Builder plugin (updates automatically)
+* UPDATED: Live Composer MenuPro plugin (updates automatically)
+* UPDATED: Google Maps Add-On For Live Composer plugin (updates automatically)
+* FIX: WPML compatibility
+* FIX: SEO Child Theme
+* FIX: Conflict with Ninja Forms
+* FIX: Archives listing template bug
+* FIX: 31+ other bugs
+
+2017 August 14 - Version 1.9.1
+
+* UPDATED: Live Composer Page Builder plugin
+* UPDATED: Live Composer MenuPro plugin
+* FIX: Bugs with menu presentation and some minor bugs found over the last two weeks.
+
+2017 July 25 - Version 1.9
+
+* IMPORTANT: Theme Update includes many premium plugin updates. Due to complexity of update you need to follow automatic theme migration process. It will take you about 15-20 minutes. SITE BACKUP IS REQUIRED. If something isn’t working as expected, please revert back to previous version and contact our one to one support: https://themeforest.net/item/seo-wp-online-marketing-seo-social-media-agency/8012838/support/contact Our team will help you to solve any problem.
+
+* UPDATED: Live Composer Page Builder plugin
+* UPDATED: MasterSlider plugin
+* UPDATED: Easy Social Share Buttons plugin
+* UPDATED: MasterSlider plugin
+* UPDATED: Ninja Forms MailChimp Opt-ins plugin
+* UPDATED: Ninja Forms PayPal Payments plugin
+* UPDATED: WPFW Menus Management plugin
+* UPDATED: Rankie plugin
+* UPDATED: Fresh Favicon and Touch Icons plugin
+* FIX: 57+ bugs and improvements
+
+2016 September 14 - Version 1.8.7
+
+* FIX: broken NinjaForms extensions
+
+2016 August 24 - Version 1.8.6
+
+* FIX: broken image importing
+
+2016 April 12 - Version 1.8.5
+
+* UPDATED: Easy Social Share Buttons plugin to the latest version
+* UPDATED: MasterSlider plugin to the latest version
+* UPDATED: Ninja Forms MailChimp Opt-ins plugin to the latest version
+
+* FIX: JS error in WordPress 4.5 (updated JQuery)
+
+
+2016 March 12 - Version 1.8.4
+
+* UPDATED: Easy Social Share Buttons plugin to the latest version
+* UPDATED: MasterSlider plugin to the latest version
+* UPDATED: Rankie plugin to the latest version
+
+* FIX: hCart validation
+* NEW: Option to have a responsive menu from MegaMainMenu on mobile
+
+
+2016 January 5 - Version 1.8.3
+
+* IMPORTANT: If you update from version less than 1.8.1 then you required to disable some premium plugins to run this update properly. Please, check a step-by-step guide here: http://docs.lumbermandesigns.com/article/82-theme-update-to-version-1-8-1
+
+* UPDATED: Easy Social Share Buttons plugin to the latest version
+* UPDATED: Ninja Forms - Layout Master plugin to the latest version
+
+* FIX: Header with logo centered
+* FIX: Call to action link missing
+* FIX: Google Map address not finding
+* FIX: Ninja Forms do not import properly
+
+2015 December 15 - Version 1.8.2
+
+* UPDATED: LiveComposer plugin to the latest version
+* UPDATED: MasterSlider plugin to the latest version
+* UPDATED: Ninja Forms - Layout Master to plugin to the latest version
+
+* FIX: Search results template to not show properly
+* FIX: Posts pagination to not work properly in WP 4.4
+* FIX: String for translation in the Customizer
+
+2015 November 21 - Version 1.8.1
+
+* UPDATED: LiveComposer plugin to the latest version
+* NEW: Box-Shadow styling property added for many LiveComposer elements
+* NEW: Text Shadow styling property added for many LiveComposer elements
+* NEW: LiveComposer shows name of the currently editing module
+* NEW: AJAX powered “Load More” Pagination for posts listings
+* NEW: Simplified Social Sharing for Blog Module
+* NEW: Category Description shortcode added: [dslc_category_description]
+
+* UPDATED: Easy Social Share Buttons plugin to the latest version
+* NEW: Mobile optimized social share buttons added
+* NEW: Sharable Quotes (a.k.a Click-to-tweet)
+* NEW: Social Profiles module added
+* NEW: Short URL support for click to tweet module
+* NEW: Share via SMS and Viber added
+* BETTER: Added in Fans Counter display of community id/name
+* BETTER: Automatically generate Twitter hashtags from post tags
+* BETTER: Big social network update pack added (15 new networks)
+* BETTER: 3 new templates for social share buttons
+* BETTER: New templates in fans counter
+* FIX: Workaround for Twitter Share Counter Shut Down
+
+* UPDATED: MasterSlider plugin to the latest version
+* BETTER: SEO improvement for gallery slider
+* BETTER: Now Master Slider is compatible with new Facebook oauth
+* BETTER: New option added to post slider to exclude posts without image from slider.
+
+* UPDATED: MegaMainMenu plugin to the latest version
+
+* FIXED: Compatibility with new Yoast plugin ver.3 (SEOWP is fully compatible with latest version of Yoast WP).
+* FIXED: System Templates (Category Listing, Search results, 404 page) now match the Live Composer approach. New Category Listing and Search Results templates will be recreated. Please check these template if you did customise it before. System Templates settings moved to WP Admin > Live Composer > Archive and Search
+* FIXED: Listing templates for Project, Clients, Testimonials categories
+
+
+
+
+2015 August 19 - Version 1.8
+
+* UPDATED: NexForms plugin to verison 4.4
+* UPDATED: LiveComposer plugin to version 1.2.4.1
+* UPDATED: MegaMainMenu plugin to version 2.0.9
+* FIXED: The Customizer panels in WordPress 4.3
+* FIXED: Mega Main Menu settings reset when editing menu in the Customizer in WordPress 4.3
+* ADDED: Automatic theme updates (make sure to add your Theme Purchase code in WP Admin > Appearance > Customize >  Advanced Settings)
+
+
+2015 July 25 - Version 1.7.10
+
+* UPDATED: LiveComposer to 1.2.4
+* UPDATED: Nex-Forms to 4.2
+* FIXED: Problem with footer styling on some servers
+
+2015 July 19 - Version 1.7.9
+
+* UPDATED: LiveComposer to 1.2.3.2
+* UPDATED: WPFW Menus Management to 1.5
+* UPDATED: MasterSlider to 2.18.2
+* UPDATED: Nex-Forms to 4.1
+* UPDATED: Ninja Forms - Layout Master to 1.6.0
+
+2015 June 6 - Version 1.7.8
+
+* UPDATED: LiveComposer to 1.2.2
+* UPDATED: WPFW Menus Management to 1.4
+* UPDATED: MasterSlider to 2.16.0
+* UPDATED: Nex-Forms to 3.4
+* UPDATED: Ninja Forms - Layout Master to 1.5.0
+
+2015 May 1 - Version 1.7.7
+
+* UPDATED: LiveComposer to 1.2.1
+* UPDATED: WPFW Menus Management to 1.3
+* UPDATED: MasterSlider to 2.12.2
+* UPDATED: Easy Social Share Buttons to 2.0.6
+* UPDATED: Nex-Forms to 3.3
+* UPDATED: Rankie to 1.3.0
+* FIXED: ‘Mega Main Menu’ plugin patched with security updates form the latest plugin update
+* FIXED: ‘SB Google Maps’ plugin patched with security updates without waiting for author to do it
+* NEW: Support for Ninja Forms plugin added
+* NEW: NinjaForms module in the LiveComposer (no more shortcodes)
+* NEW: MasterSlider module in the LiveComposer (no more shortcodes)
+* NEW: Premium plugin ’Ninja Forms MailChimp Opt-ins’ added
+* NEW: Premium plugin ’Ninja Forms - Layout Master’ added
+* NEW: Premium plugin ’Ninja Forms PayPal Standard Payment Gateway’ added
+* NEW: Premium plugin ’Google Maps Add-On For Live Composer’ added  (no more shortcodes)
+
+
+2015 March 14 - Version 1.7.6
+
+* UPDATED: LiveComposer to 1.1.8
+* UPDATED: WPFW Menus Management to 1.3
+* UPDATED: MasterSlider to 2.9.12
+* UPDATED: Easy Social Share Buttons to 2.0.5
+* UPDATED: Nex-Forms to 3.1
+* NEW: Three new page designs included
+* FIXED: Minor CSS bugs
+* BETTER: Demo menu structure changed
+
+2015 January 31 - Version 1.7.5
+
+* UPDATED: LiveComposer to 1.1.3
+* NEW: Two new page designs included: Reputation Management & Digital Consultancy
+* BETTER: Demo menu structure changed
+
+2015 January 21 - Version 1.7.4
+
+* FIXED: MegaMainMenu version in /Premium Plugins/ folder.
+
+2015 January 17 - Version 1.7.3
+
+* UPDATED: LiveComposer to 1.1.1
+* UPDATED: MasterSlider to 2.9.7
+* UPDATED: Rankie to ver. 1.2.4
+* UPDATED: Nex-Forms to 3.0.1
+
+2014 December 27 - Version 1.7.3
+
+* NEW: Two new page designs included: Local SEO & Mobile Marketing
+* BETTER: Improved Customizer compatibility with WordPres 4.1
+
+2014 December 20 - Version 1.7.2
+
+* NEW: Two new page designs included: Email Marketing & Content Marketing
+* NEW: Simple page preloader
+* BETTER: Minor design adjustments to other pages
+* UPDATED: MasterSlider to 2.9.2
+* UPDATED: LiveComposer to 1.0.8
+
+2014 December 6 - Version 1.7.1
+
+* NEW: Service Page – Search Engine Optimization
+* NEW: Service Page – Social Media Marketing
+* NEW: Service Page – Pay Per Click Management
+
+2014 November 29 - Version 1.7
+
+* NEW: Two new page designs included: Web Development & Web Design Services
+* BETTER: YouTube and Yelp icons added
+* FIXED: Google Fonts in theme customzier not working properly
+* UPDATED: SB Google Map to 1.5
+* UPDATED: Easy Social Share Buttons to 2.0.1
+* UPDATED: Nex-Forms to 2.3
+
+
+2014 November 10 - Version 1.6.1
+
+* FIXED: Some of the demo image src attributes were pointing to the dev server.
+
+
+2014 November 7 - Version 1.6
+
+* UPDATED: Live Composer to ver. 1.0.6 (change log: http://livecomposerplugin.com/docs/changelog/ )
+* UPDATED: NEX-Froms to ver. 2.1
+* UPDATED: MegaMainMenu to ver. 2.0.3
+* NEW: New premium plugin included: SB Multilingual Responsive Google Map with Styles ($14 value). Lighter and better alternative to Simplified Google Maps we used before. Learn more on: http://codecanyon.net/item/sb-multilingual-responsive-google-map-with-styles/8766060
+* BETTER: Page loading speed improved.
+
+2014 October 27 - Version 1.5.1
+
+* UPDATED: Rankie to ver. 1.2.3 (change log: http://codecanyon.net/item/rankie-wordpress-rank-tracker-plugin/7605032 )
+
+
+2014 October 10 - Version 1.5
+
+* NEW: New premium plugin included: Rankie ($15 value). Now you can track your website positions in Google SERP. Learn more on: http://codecanyon.net/item/rankie-wordpress-rank-tracker-plugin/7605032
+* BETTER: Basic page layout included into LiveComposer Templates > Load section
+* BETTER: Demo pages templates included into LiveComposer Templates > Load section
+* FIXED: Mega Menu backgrounds not show in some cases
+
+
+2014 October 8 - Version 1.4.1
+
+* FIXED: All non-important notices removed
+* UPDATED: Live Composer to ver. 1.0.5.6 (change log: http://livecomposerplugin.com/docs/changelog/ )
+* UPDATED: Master Slider to ver. 2.7.0 (change log: http://codecanyon.net/item/master-slider-wordpress-responsive-touch-slider/7467925 )
+
+
+2014 October 1 - Version 1.4
+
+* FIXED: All the pages adapted for mobile devices and tablets.
+
+
+2014 September 27 - Version 1.3
+
+* UPDATED: Live Composer to ver. 1.0.5.6 (change log: http://livecomposerplugin.com/docs/changelog/ )
+* UPDATED: Master Slider to ver. 2.7.0 (change log: http://codecanyon.net/item/master-slider-wordpress-responsive-touch-slider/7467925 )
+* UPDATED: NEX-Froms to ver. 1.2
+* UPDATED: Simplified Google Maps to ver. 2.0.2 (change log: http://codecanyon.net/item/simplified-google-maps/5674572 )
+
+
+2014 September 12 - Version 1.2
+
+* UPDATED: Live Composer to ver. 1.0.5.5 (change log: http://livecomposerplugin.com/docs/changelog/ )
+* UPDATED: Master Slider to ver. 2.5.2 (change log: http://codecanyon.net/item/master-slider-wordpress-responsive-touch-slider/7467925 )
+* UPDATED: Easy Social Share Buttons to ver. 1.3.9.8 (change log: http://codecanyon.net/item/easy-social-share-buttons-for-wordpress/6394476 )
+* UPDATED: Simplified Google Maps to ver. 2.0.1 (change log: http://codecanyon.net/item/simplified-google-maps/5674572 )
+
+* FIXED: Minor CSS bugs
+
+
+
+2014 August 11 - Version 1.1.2
+
+* FIXED: Theme Customizer not live updating some of the elements (notification panel icon, header colour property and some other)
+* FIXED: Extra bracket in index.php preventing custom 404 page to display
+* NEW: E-book cover template added into assets folder
+
+
+
+2014 August 5 - Version 1.1.1
+
+* FIXED: Home page doesn’t save in some situations
+* BETTER: The footer and header are hidden when editing the page for page builder performance.
+
+
+
+2014 August 5 - Version 1.1
+
+* UPDATED: Easy Social Share Buttons to ver. 1.3.9.6
+* UPDATED: Live Composer to ver. 1.0.5.2
+* UPDATED: Master Slider to ver. 2.2.0
+
+* NEW: New premium plugin included: Fresh Favicon and Touch Icons ($9 value)
+* NEW: New premium icons included: Modern SEO Services Icons ($7 value)
+* NEW: We purchased the rights to include the demo images in our theme. Now all the images used on the demo website can be imported and used by theme buyers for free. ($18 value)
+
+* BETTER: Theme size reduced from 10.5MB to 1.3MB by moving premium plugins out of theme folder. Now theme installs via WP admin even on cheap hosting plans.
+* BETTER: Improved theme configuration process
+* BETTER: Improved home page presentation on mobile devices
+* BETTER: Improved 1-click demo importer
+
+* FIXED: Reduced font requests to the Google Server
+* FIXED: Console error messages
+* FIXED: Image stretching in IE
+
+
+
+2014 June 17 - Version 1.0.1
+
+* NEW: Automatic theme updates added. Please do not edit theme files as you will loose all the changes on the next theme update.
+* FIXED: Theme configurator now works as expected when WordPress installed in a sub-folder.
+
+
+
+2014 June 17 - Version 1.0
+Release

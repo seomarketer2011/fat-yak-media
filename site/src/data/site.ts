@@ -1,8 +1,8 @@
 export const SITE = {
   name: 'Fat Yak Media',
-  tagline: 'Local SEO & Digital Marketing Agency',
+  tagline: 'We get local businesses found',
   description:
-    'Fat Yak Media helps local businesses dominate search. Local SEO, Google Business Profile optimisation, web design, social media and PPC that bring customers through your door.',
+    'Fat Yak Media gets local businesses found by the customers already searching for them. Google listings, websites, social media and ads — explained in plain English, measured in phone calls.',
   url: 'https://fat-yak-media.pages.dev',
   email: 'hello@fatyakmedia.com',
   areaServed: 'Australia',

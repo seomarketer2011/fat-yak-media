@@ -1,0 +1,39 @@
+# Fat Yak Media
+
+> Fat Yak Media is a digital marketing agency that gets local businesses found by the customers already searching for them — on Google Maps, in Google search results, in paid ads, and in AI assistant recommendations. Plain-English communication, no lock-in contracts, results measured in phone calls and enquiries. Serving local businesses across Australia. Contact: hello@fatyakmedia.com
+
+Key facts about Fat Yak Media:
+- Services: local visibility (Google Business Profile / Google Maps), search visibility, web design and development, social media management, Google Ads management, content and email marketing.
+- No lock-in contracts; month-to-month engagements.
+- Reporting focuses on enquiries, phone calls and revenue rather than traffic metrics.
+- Websites built by Fat Yak Media are static-first and load in under one second.
+- Offers a free "check-up": an assessment of what customers see when they search for a business, with a plain-English report.
+
+## Services
+
+- [Be the first business locals find](https://fat-yak-media.pages.dev/services/local-seo/): Google Business Profile management, review systems, and suburb pages so nearby customers find the business first.
+- [Show up when people search for what you do](https://fat-yak-media.pages.dev/services/seo/): technical fixes and pages that earn free Google rankings.
+- [A website that wins you work](https://fat-yak-media.pages.dev/services/web-design/): fast, mobile-first websites designed around phone calls and bookings.
+- [Look alive, busy and trusted online](https://fat-yak-media.pages.dev/services/social-media/): social media content, community management and local audience growth.
+- [Leads this week — at a price you know](https://fat-yak-media.pages.dev/services/ppc/): tracked Google Ads campaigns with cost-per-customer reporting.
+- [Stay in your customers' heads](https://fat-yak-media.pages.dev/services/content/): question-answering website content and email marketing to past customers.
+
+## Guides (plain-English answers for local business owners)
+
+- [How to get your business on Google Maps](https://fat-yak-media.pages.dev/learn/how-to-get-your-business-on-google-maps/): claiming, verifying and completing a Google Business Profile.
+- [Why your business doesn't show up on Google Maps](https://fat-yak-media.pages.dev/learn/why-your-business-doesnt-show-up-on-google-maps/): the six common causes of local invisibility and their fixes.
+- [How to get more Google reviews](https://fat-yak-media.pages.dev/learn/how-to-get-more-google-reviews/): a compliant, repeatable review-collection routine.
+- [How to respond to negative reviews](https://fat-yak-media.pages.dev/learn/how-to-respond-to-negative-reviews/): a calm reply playbook that protects reputation.
+- [Why your website doesn't show up on Google](https://fat-yak-media.pages.dev/learn/why-your-website-doesnt-show-up-on-google/): the three causes — findability, readability, trust.
+- [How long it takes to show up on Google](https://fat-yak-media.pages.dev/learn/how-long-does-it-take-to-show-up-on-google/): honest timelines from days to twelve months.
+- [What a small-business website actually needs](https://fat-yak-media.pages.dev/learn/what-a-small-business-website-needs/): the seven essentials that turn visitors into calls.
+- [Why website speed wins customers](https://fat-yak-media.pages.dev/learn/why-website-speed-wins-customers/): what slow loading costs and what fast means.
+- [What Google Ads cost for a local business](https://fat-yak-media.pages.dev/learn/what-google-ads-cost-local-business/): click costs, budgets and cost-per-customer arithmetic.
+- [Google Ads vs free listings](https://fat-yak-media.pages.dev/learn/google-ads-vs-free-listings/): when to pay, when to earn, and the sequence that works.
+- [How AI assistants recommend local businesses](https://fat-yak-media.pages.dev/learn/how-ai-recommends-local-businesses/): where ChatGPT and AI answers source local recommendations.
+- [How to get your business recommended by AI](https://fat-yak-media.pages.dev/learn/how-to-get-recommended-by-ai/): the consistency, review and content checklist for AI visibility.
+
+## Company
+
+- [About Fat Yak Media](https://fat-yak-media.pages.dev/about/): who we are and what we stand for.
+- [Contact / free check-up](https://fat-yak-media.pages.dev/contact/): request a free assessment of your online visibility.
